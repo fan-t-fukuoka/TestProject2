@@ -1,0 +1,4 @@
+language: objective-c
+xcode_project: TestProject2.xcodeproj
+xcode_scheme: TestProject2
+
